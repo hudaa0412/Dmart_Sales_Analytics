@@ -126,7 +126,7 @@ Business Insights & Recommendations
 
 Looker Studio • Microsoft Excel • Data Cleaning • Data Visualization • Dashboard Development • KPI Design • Business Intelligence • Exploratory Data Analysis (EDA) • Business Analysis • BRD • FRD
 
-👩‍💻 Author
+  Author
 
 Huda Ansari
 Aspiring Data Scientist | Data Analyst
